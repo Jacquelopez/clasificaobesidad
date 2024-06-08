@@ -496,7 +496,7 @@ Female;18;1.67;66;no;yes;3;3;Sometimes;no;2;no;0;0;Sometimes;Public_Transportati
 Male;19;1.8;60;yes;yes;3;1;Always;no;1;yes;0;0;no;Motorbike;Normal_Weight
 Male;18;1.72;53;yes;yes;2;3;Sometimes;no;2;no;0;2;Sometimes;Public_Transportation;Insufficient_Weight
 Male;20;1.56;45;no;no;2;3;Sometimes;no;2;no;1;1;Sometimes;Public_Transportation;Normal_Weight
-Female;23;1.6;45;no;no;2.591.439;3;Frequently;no;2.074.048;no;1.679.935;0;no;Public_Transportation;Insufficient_Weight
+Female;23;1.6;45;no;no;2;3;Frequently;no;2.074.048;no;1.679.935;0;no;Public_Transportation;Insufficient_Weight
 Female;18;1.688.025;45;no;yes;3;3;Sometimes;no;3;yes;2.539.762;1.283.673;no;Public_Transportation;Insufficient_Weight
 Female;21;1.52;42;no;yes;3;1;Frequently;no;1;no;0;0;Sometimes;Public_Transportation;Insufficient_Weight
 Female;21;1.520.997;42;no;yes;3;1;Frequently;no;1.527.036;no;0;0.860497;Sometimes;Public_Transportation;Insufficient_Weight
